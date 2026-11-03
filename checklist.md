@@ -6,4 +6,4 @@
 - [x] GitHub `dogebi/xulonghuan` 저장소 생성
 - [x] 커밋 및 원격 푸시
 - [x] GitHub Pages 배포 설정
-- [ ] 배포 URL 확인
+- [x] 배포 URL 확인 (GitHub Pages API와 Actions 성공 상태로 확인)

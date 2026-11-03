@@ -6,3 +6,4 @@
 - React 앱은 Vite와 TailwindCSS를 사용하며, GitHub Pages 경로 `/xulonghuan/`에서 동작하도록 설정한다.
 - 저장소는 사용자의 확인에 따라 public으로 생성했다.
 - Pages 배포는 `.github/workflows/deploy.yml`의 GitHub Actions로 처리한다.
+- GitHub Actions 실행 `41591839009`가 성공했고 Pages 주소는 `https://dogebi.github.io/xulonghuan/`로 확인했다. 로컬 curl은 SSL 연결 오류로 본문 확인이 제한됐다.
