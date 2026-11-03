@@ -35,9 +35,8 @@ const originalImages = [
   'https://i3.sinaimg.cn/gm/industryimage/image9/dianping1.jpg', 'https://i0.sinaimg.cn/gm/industryimage/image9/dianping2.jpg',
   'https://i1.sinaimg.cn/gm/industryimage/image9/dianping3.jpg', 'https://i3.sinaimg.cn/gm/industryimage/image/touziren.png',
   'https://i1.sinaimg.cn/gm/industryimage/image9/yuxiaohui.jpg', 'https://i1.sinaimg.cn/gm/industryimage/image9/zhuyi.jpg',
-  'https://i3.sinaimg.cn/gm/industryimage/image9/liangwu.jpg', 'https://i0.sinaimg.cn/gm/industryimage/image/gengduotouziren.jpg',
+  'https://i3.sinaimg.cn/gm/industryimage/image9/liangwu.jpg',
   'https://i0.sinaimg.cn/gm/industryimage/image9/zhengyaqi.jpg', 'https://i0.sinaimg.cn/gm/industryimage/image/sinalogo.gif',
-  'https://i3.sinaimg.cn/gm/industryimage/image/smialogo.gif',
 ]
 const archiveText = [
   '对于一个真正的创业者，创业过程不但充满了激情、艰辛、挫折、忧虑、痛苦和徘徊，而且还需要付出坚持不懈的努力，渐进的成功也将带来无穷的欢乐与分享不尽的幸福。',
