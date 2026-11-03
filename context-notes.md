@@ -4,3 +4,5 @@
 - GitHub 저장소 이름은 사용자가 지정한 `xulonghuan`으로 한다.
 - 기존 상위 `TestCase111` 저장소의 원격과 변경 사항은 사용하지 않는다.
 - React 앱은 Vite와 TailwindCSS를 사용하며, GitHub Pages 경로 `/xulonghuan/`에서 동작하도록 설정한다.
+- 저장소는 사용자의 확인에 따라 public으로 생성했다.
+- Pages 배포는 `.github/workflows/deploy.yml`의 GitHub Actions로 처리한다.
